@@ -1,4 +1,4 @@
-# Replication-Data-for-Kuniyoshi-2021
+# Replication-Data-for-Kuniyoshi2021
 Resistive magnetohydrodynamics (MHD) simulation of reconnection in a twisted magnetic flux tube used in the paper 'Magnetic Reconnection in a Sheared Magnetic Flux Tube: Slippage versus Tearing'.
 
 ## Contact information
